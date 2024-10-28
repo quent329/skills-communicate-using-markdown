@@ -8,3 +8,8 @@ if num > 0:
     print("The num is positive")
 else:
     print("The num is not positive")
+
+To Do List: 
+- [X] Do Task X
+- [ ] Do Task Y
+- [X] Do Task Z
